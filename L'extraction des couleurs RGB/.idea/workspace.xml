@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17829ee6-22e1-4798-b8ad-38809bfc076c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Crypto/RSA/.idea/RSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crypto/RSA/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 10-11/CC 10-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 13-14/CC 13-14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 14-15/CC 14-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 16-17/CC 16-17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 17-18/CC 17-18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 9-10/CC 9-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/Corr_CCs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/Qts Cours/Qts Cours.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/JavaTPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Manage_Bank/Manage_Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Personne/Personne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Point/Point.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/PointClasse/PointClasse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/TP1/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/TP2/TP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Vehicule/Vehicule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputImages/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputImages/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/TP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/InputImages/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/TP3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/InputImages/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/InputImages/hands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dJ98GK5TBETjz54sR4rgH36enF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.script.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TP1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AnasChatt\Desktop\TP1\script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17829ee6-22e1-4798-b8ad-38809bfc076c" name="Changes" comment="" />
+      <created>1709715154394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709715154394</updated>
+      <workItem from="1709715157197" duration="5343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TP1$script.coverage" NAME="script Coverage Results" MODIFIED="1709719489718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2311cc20-37ec-4e1c-bbd4-67bfefd7f3ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Crypto/RSA/.idea/RSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crypto/RSA/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 10-11/CC 10-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 13-14/CC 13-14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 14-15/CC 14-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 16-17/CC 16-17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 17-18/CC 17-18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/CC 9-10/CC 9-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/Corr_CCs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/Corr_CCs/Qts Cours/Qts Cours.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/JavaTPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Manage_Bank/Manage_Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Personne/Personne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Point/Point.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/PointClasse/PointClasse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/TP1/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/TP2/TP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GINF2/S3/Java/JavaTPs/Vehicule/Vehicule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/InputImages/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/InputImages/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/TP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/InputImages/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TP3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputImages/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputImages/hands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2dJI4stXFEt7MfzvXTSoQ8pvOUd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.App.executor": "Run",
+    "Python.script (1).executor": "Run",
+    "Python.script.executor": "Run",
+    "Python.scriptCanny.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/AnasChatt/Desktop/TP3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AnasChatt\Desktop\TP3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AnasChatt\Desktop\TP3\InputImages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.script (1)">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AnasChatt\Desktop\TP3\script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.script (1)" />
+        <item itemvalue="Python.App" />
+        <item itemvalue="Python.scriptCanny" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2311cc20-37ec-4e1c-bbd4-67bfefd7f3ca" name="Changes" comment="" />
+      <created>1709719566274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709719566274</updated>
+      <workItem from="1709719567361" duration="5186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TP3$script.coverage" NAME="script Coverage Results" MODIFIED="1709722808688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TP3$script__1_.coverage" NAME="script (1) Coverage Results" MODIFIED="1709724768657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TP3$App.coverage" NAME="App Coverage Results" MODIFIED="1709722977664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
